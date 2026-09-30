@@ -1,0 +1,4 @@
+{
+  "name": "Tableau",
+  "install": "bash .cursor/install.sh"
+}
